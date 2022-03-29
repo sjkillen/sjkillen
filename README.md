@@ -1,6 +1,6 @@
 
 ## About
-- Grad student studying Answer Set Programming
+- Grad student studying Answer Set Programming and KR
 
 ## Interests
 - Logic programming
