@@ -8,13 +8,13 @@
 - Logic programming
 - Computational creativity
 
-# Technical Skills
-## Web/Mobile Application Development
+## Technical Skills
+### Web/Mobile Application Development
 - Frontend: React, Svelte, Expo, React-native, TypeScript
 - Backend: Node.js
 - Database: SQL, MongoDB
-## Compilers
+### Compilers
 - Antlr4, LLVM, Racket Rosette, Soufle
-## Misc
+### Misc
 - Languages: Prolog, Rust, Golang, Lisp, Java, Python, C++, C#
 - Gamedev: Unity, Blender, Godot
